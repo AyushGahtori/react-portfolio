@@ -15,16 +15,16 @@ const HeroSection = () => {
                         <motion.h2 variants={slideAnim.up}>Hi, my name is </motion.h2>
                     </Hide>
                     <Hide>
-                        <motion.h2 variants={slideAnim.up}><span>Maria Le</span></motion.h2>
+                        <motion.h2 variants={slideAnim.up}><span>Ayush Gahtori</span></motion.h2>
                     </Hide>
                 </motion.div>
                 <Hide>
                     <motion.p variants={slideAnim.up}> 
-                    I build web-based solutions that prioritize functionality and user experience. I enjoy turning ideas into reality by creating practical and visually appealing web applications.</motion.p>
+                    I buit software that prioritize functionality and user experience. I enjoy turningides into realityby creating practical and visually appealing softwares.  </motion.p>
                 </Hide>     
                 <ButtonContainer>
                     <Hide>
-                        <a href="https://github.com/mariangle" target="_blank" rel="noreferrer">
+                        <a href="https://github.com/AyushGahtori" target="_blank" rel="noreferrer">
                             <motion.button variants={slideAnim.up}>Github</motion.button>
                         </a>        
                     </Hide>

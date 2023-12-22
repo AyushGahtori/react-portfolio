@@ -19,7 +19,7 @@ function Namespace() {
             <span>namespace</span> Portfolio<br/>&#123;
         </p>
             <Class>
-                <span>public class</span> Maria : Person<br />
+                <span>public class</span> Ayush: Person<br />
                 &#123; <br/>
                 <Properties>
                     <span>public int</span>  Age &#123; get; &#125; = 21;<br/>
