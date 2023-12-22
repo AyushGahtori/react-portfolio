@@ -7,9 +7,9 @@ function AboutMe() {
 
   return (
     <StyledAboutMe>
-      <motion.p >During my studies as a computer science student, I delved into back-end development and realized my natural <span>flair for UI/UX design</span>. Motivated by this realization, I began learning front-end development alongside my studies. <br /> 
+      <motion.p >"I'm a seasoned software developer with <span>two years of experience</span>, specializing in innovative project creation. Adaptable and collaborative, I enjoy working with new technologies and diverse teams. My journey began five years ago, and my commitment to continuous learning drives my professional growth."<br /> 
       <br/>
-      I aim to build upon my current back-end knowledge and combine it with my front-end skills, working towards becoming a <span>full-stack developer</span>. I am committed to explore and experiment with technologies in pursuit of building seamless and engaging user experiences.</motion.p> <br />
+      "As a <span>full-stack software developer</span>, I've enhanced productivity and performance by <span>35% to 50%</span> in my previous role. Proficient in both front-end and back-end development, I bring a holistic skill set to project execution. With a track record of driving efficiency, I am dedicated to achieving impactful results in every aspect of software development."</motion.p> <br />
       <p className='bold'>Recent technologies I've used:</p>
         <Technologies>
           <Social>
@@ -26,7 +26,7 @@ function AboutMe() {
           </Social>
           <Social>
             <Circle/>
-            <li>SQL</li>
+            <li>Rust</li>
           </Social>
         </Technologies>
     </StyledAboutMe>  

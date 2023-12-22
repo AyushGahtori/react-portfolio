@@ -19,7 +19,7 @@ const Nav = ( {toggleTheme, theme} ) => {
     <Container>
       <StyledNav variants={slideAnim.down} initial="hidden" animate="show" >
           <Logo onClick={scrollTop}>
-            <Link to="/"><h1> &lt;<span>Maria </span>/&gt;</h1></Link>
+            <Link to="/"><h1> &lt;<span>Ayush</span>/&gt;</h1></Link>
           </Logo>
           { pathname === "/" && (
             <>

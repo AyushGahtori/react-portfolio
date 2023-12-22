@@ -28,7 +28,7 @@ const Contact = () => {
             <IconContainer variants={slideAnim.up}>
                 <FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon>
             </IconContainer>
-            <motion.p variants={slideAnim.up}>marianguyenle17@gmail.com</motion.p>
+            <motion.p variants={slideAnim.up}>ayushgahtori24@gmail.com</motion.p>
             </Info>
           </Hide>
           <Hide>
