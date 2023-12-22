@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <Div>
       <StyledFooter>
-        <p>Built with React, Framer Motion and Styled Components. Coded in VS Code.</p>
+        <p>Let's work together.</p>
         <a href="https://github.com/mariangle/react-portfolio-styled-motion" target='_blank' rel="noreferrer">
           <FontAwesomeIcon icon={faGithub} /> 
         </a>
